@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "registry":"https://github.com/khoathanglong/axios-cancel-request"
-  },
-  "author": "long-s",
+  "homepage":"https://github.com/khoathanglong/axios-cancel-request",
+  "author": "long-ss",
   "license": "ISC"
 }
