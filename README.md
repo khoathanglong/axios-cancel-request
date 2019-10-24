@@ -11,7 +11,7 @@ Cancel previous requests if not completed when a new one is called. This library
     import axiosCancelRequest from 'axios-cancel-request';
     import axios from 'axios';
     
-    // pass in your axios instant
+    // pass in your axios instance
     const cancelabeRequest = axiosCancelRequest(axios);
     // Call api using axios request config
     // details at https://github.com/axios/axios#request-config
