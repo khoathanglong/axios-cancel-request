@@ -1,0 +1,11 @@
+{
+  "name": "axios-cancel-request",
+  "version": "1.0.0",
+  "description": "cancel previous incompleted requests if a new one is made ",
+  "main": "axios-cancel-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "long-s",
+  "license": "ISC"
+}
